@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Singh</h1>
 <h3 align="center">A passionate Full Stack Web-Developer from India</h3>
 
-<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right" alt="coding"/>
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right" alt="coding" style="width: 400px; height:auto;"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geniousyash&label=Profile%20views&color=0e75b6&style=flat" alt="geniousyash" /> </p>
 
