@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geniousyash&label=Profile%20views&color=0e75b6&style=flat" alt="geniousyash" /> </p>
 
-- 🌱 I’m currently learning **Next.Js, Three.Js, AI & ML**
+- 🌱 I’m currently learning **AWS, Kubernetes, AI & ML, etc**
 
 - 📫 How to reach me **singhyash3012@gmail.com**
 
