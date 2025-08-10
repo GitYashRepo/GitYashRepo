@@ -12,7 +12,7 @@
 <h3 align="left" style="margin-top: 100px; font-size: 40px;">Connect with me:</h3>
 <div align="left" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 <a href="https://www.linkedin.com/in/yash-singh-fullstackdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-singh-fullstackdev/" height="30" width="40" /></a>
-<a href="https://yash-portfolio-dev.vercel.app"><img src="https://yash-portfolio-dev.vercel.app/favicon.ico" alt="Portolio" height="30" width="40"/></a>
+<a href="https://yash-portfolio-dev.vercel.app" target="_blank"><img align="center" src="https://yash-portfolio-dev.vercel.app/favicon.ico" alt="Portolio" height="30" width="30"/></a>
 </div>
 <br><br>
 <hr>
