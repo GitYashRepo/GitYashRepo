@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Yash Singh</h1>
+<h1 align="center">Hi 👋, I'm Yash Singh</h1>
 <h3 align="center">A passionate Full Stack Web-Developer from India</h3>
 
 <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" align="right" alt="coding" style="width: 400px; height:auto;"/>
@@ -10,10 +10,10 @@
 - 📫 How to reach me **singhyash3012@gmail.com**
 
 <h3 align="left" style="margin-top: 100px; font-size: 40px;">Connect with me:</h3>
-<p align="left" style="display: flex; align-items:center; justify-content: center;">
+<div align="left" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
 <a href="https://www.linkedin.com/in/yash-singh-fullstackdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yash-singh-fullstackdev/" height="30" width="40" /></a>
 <a href="https://yash-portfolio-dev.vercel.app"><img src="https://yash-portfolio-dev.vercel.app/favicon.ico" alt="Portolio" height="30" width="40"/></a>
-</p>
+</div>
 <br><br>
 <hr>
 <br><br>
