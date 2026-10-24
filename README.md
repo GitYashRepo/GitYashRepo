@@ -178,7 +178,7 @@ A restaurant SaaS platform concept for QR menus, admin tools, and sales reportin
 ## 📈 Contribution Activity
 
 <div align="center">
-<img src="https://ghchart.rshah.org/3B82F6/GitYashRepo?utm_source=chatgpt.com" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://ghchart.rshah.org/F59E0B/GitYashRepo?utm_source=chatgpt.com" width="100%" alt="GitHub contribution activity graph"/>
 </div>
 
 ---
