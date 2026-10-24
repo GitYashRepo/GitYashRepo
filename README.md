@@ -81,8 +81,9 @@ To Collaborate
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
+
+<td width="50%" valign="top">
 <!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_CHILDPROGRESS360 -->
 <a href="https://childprogress360.webtechware.in">
 <img src="PROJECT_IMAGE_URL_CHILDPROGRESS360" width="100%" alt="ChildProgress360 project screenshot placeholder" />
@@ -97,34 +98,30 @@ A school-management and student-progress platform to help schools manage educati
 [↗ Live Website](https://childprogress360.webtechware.in)
 
 </td>
+
+
+
+
+
 <td width="50%" valign="top">
+<!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_RESTRA -->
+<img src="PROJECT_IMAGE_URL_RESTRA" width="100%" alt="Restra Menu project screenshot placeholder" />
 
+### Restra Menu
 
+A restaurant SaaS platform concept for QR menus, admin tools, and sales reporting.
 
+`Next.js` `Node.js` `MongoDB`
 
-
-<!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_AINATION -->
-<a href="https://ainationacademy.com">
-<img src="PROJECT_IMAGE_URL_AINATION" width="100%" alt="AI Nation Academy project screenshot placeholder" />
-</a>
-
-### AI Nation Academy
-
-An educational platform focused on coding and generative-AI learning for students.
-
-`Next.js` `React` `AI`
-
-[↗ Visit Website](https://ainationacademy.com)
+[✉ Ask about this project](mailto:singhyash3012@gmail.com?subject=Restra%20Menu)
 
 </td>
+
 </tr>
 <tr>
+
+
 <td width="50%" valign="top">
-
-
-
-
-
 <!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_WEBTECHWARE -->
 <a href="https://webtechware.in">
 <img src="PROJECT_IMAGE_URL_WEBTECHWARE" width="100%" alt="WebTechWare project screenshot placeholder" />
@@ -139,26 +136,27 @@ A software-development brand delivering web applications, SaaS solutions, and di
 [↗ Visit Website](https://webtechware.in)
 
 </td>
+
+
 <td width="50%" valign="top">
+<!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_AINATION -->
+<a href="https://ainationacademy.com">
+<img src="PROJECT_IMAGE_URL_AINATION" width="100%" alt="AI Nation Academy project screenshot placeholder" />
+</a>
 
+### AI Nation Academy
 
+An educational platform focused on coding and generative-AI learning for students.
 
+`Next.js` `React` `AI`
 
-<!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_RESTRA -->
-<img src="PROJECT_IMAGE_URL_RESTRA" width="100%" alt="Restra Menu project screenshot placeholder" />
-
-### Restra Menu
-
-A restaurant SaaS platform concept for QR menus, admin tools, and sales reporting.
-
-`Next.js` `Node.js` `MongoDB`
-
-[✉ Ask about this project](mailto:singhyash3012@gmail.com?subject=Restra%20Menu)
-
-
-
+[↗ Visit Website](https://ainationacademy.com)
 
 </td>
+
+
+
+
 </tr>
 </table>
 
