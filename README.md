@@ -8,7 +8,7 @@
 <td width="26%" align="center" valign="middle">
 
 <!-- PROFILE PHOTO PLACEHOLDER: replace YOUR_PROFILE_IMAGE_URL with your uploaded photo URL -->
-<img src="https://www.webtechware.in/_next/image?url=%2Fyashsingh.png&w=828&q=75" width="190" alt="Yash Singh profile photo placeholder" />
+<img src="/assets/projects/yashsingh.png" width="190" alt="Yash Singh profile photo placeholder" />
 
 <br/>
 
@@ -86,7 +86,7 @@ To Collaborate
 <td width="50%" valign="top">
 <!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_CHILDPROGRESS360 -->
 <a href="https://childprogress360.webtechware.in">
-<img src="PROJECT_IMAGE_URL_CHILDPROGRESS360" width="100%" alt="ChildProgress360 project screenshot placeholder" />
+<img src="/assets/projects/cp360.png" width="100%" alt="ChildProgress360 project screenshot placeholder" />
 </a>
 
 ### ChildProgress360
@@ -105,7 +105,8 @@ A school-management and student-progress platform to help schools manage educati
 
 <td width="50%" valign="top">
 <!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_RESTRA -->
-<img src="PROJECT_IMAGE_URL_RESTRA" width="100%" alt="Restra Menu project screenshot placeholder" />
+<a href="https://restramenu.com">
+<img src="/assets/projects/restramenu.png" width="100%" alt="Restra Menu project screenshot placeholder" />
 
 ### Restra Menu
 
@@ -113,7 +114,7 @@ A restaurant SaaS platform concept for QR menus, admin tools, and sales reportin
 
 `Next.js` `Node.js` `MongoDB`
 
-[✉ Ask about this project](mailto:singhyash3012@gmail.com?subject=Restra%20Menu)
+[↗ Live Website](https://restramenu.com)
 
 </td>
 
@@ -124,7 +125,7 @@ A restaurant SaaS platform concept for QR menus, admin tools, and sales reportin
 <td width="50%" valign="top">
 <!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_WEBTECHWARE -->
 <a href="https://webtechware.in">
-<img src="PROJECT_IMAGE_URL_WEBTECHWARE" width="100%" alt="WebTechWare project screenshot placeholder" />
+<img src="/assets/projects/webtechware.png" width="100%" alt="WebTechWare project screenshot placeholder" />
 </a>
 
 ### WebTechWare
@@ -141,7 +142,7 @@ A software-development brand delivering web applications, SaaS solutions, and di
 <td width="50%" valign="top">
 <!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_AINATION -->
 <a href="https://ainationacademy.com">
-<img src="PROJECT_IMAGE_URL_AINATION" width="100%" alt="AI Nation Academy project screenshot placeholder" />
+<img src="/assets/projects/aination.png" width="100%" alt="AI Nation Academy project screenshot placeholder" />
 </a>
 
 ### AI Nation Academy
