@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Yash Singh — Developer Portfolio</title>
+<desc id="desc">Dark navy and blue developer banner with Yash Singh's name and role.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#070D16"/><stop offset="1" stop-color="#111E31"/>
+  </linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#818CF8"/>
+  </linearGradient>
+  <radialGradient id="glow"><stop stop-color="#2563EB" stop-opacity=".32"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+<circle cx="1030" cy="20" r="300" fill="url(#glow)"/>
+<path d="M850 0h350v330H990z" fill="#17263B" opacity=".45"/>
+<g stroke="#29405C" stroke-width="1" opacity=".6">
+  <path d="M820 0v330M900 0v330M980 0v330M1060 0v330M1140 0v330"/>
+  <path d="M800 50h400M800 110h400M800 170h400M800 230h400M800 290h400"/>
+</g>
+<rect x="58" y="42" width="150" height="30" rx="15" fill="#111E31" stroke="#38516F"/>
+<circle cx="76" cy="57" r="4" fill="#34D399"/>
+<text x="90" y="62" font-family="Arial, Helvetica, sans-serif" font-size="13" fill="#C9D8EA">AVAILABLE TO CONNECT</text>
+<text x="58" y="145" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="800" letter-spacing="-2" fill="#F8FAFC">YASH <tspan fill="url(#blue)">SINGH</tspan></text>
+<text x="61" y="185" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" fill="#E2E8F0">Frontend Developer  |  Full-Stack Developer</text>
+<text x="61" y="218" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#93C5FD">SaaS Builder</text>
+<text x="61" y="260" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#AAB8CA">Modern web applications · Scalable products · Thoughtful UI</text>
+<g transform="translate(935 102)">
+  <rect width="205" height="130" rx="18" fill="#0B1421" stroke="#2B4668"/>
+  <text x="22" y="38" font-family="Arial, Helvetica, sans-serif" font-size="30" fill="#60A5FA">“</text>
+  <text x="22" y="66" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#F1F5F9">Code.</text>
+  <text x="22" y="89" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#F1F5F9">Create. Solve.</text>
+  <text x="22" y="112" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#93C5FD">Repeat.</text>
+</g>
+<text x="1140" y="300" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#64748B">GITYASHREPO</text>
+</svg>
