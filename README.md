@@ -8,7 +8,7 @@
 <td width="26%" align="center" valign="middle">
 
 <!-- PROFILE PHOTO PLACEHOLDER: replace YOUR_PROFILE_IMAGE_URL with your uploaded photo URL -->
-<img src="YOUR_PROFILE_IMAGE_URL" width="190" alt="Yash Singh profile photo placeholder" />
+<img src="https://www.webtechware.in/_next/image?url=%2Fyashsingh.png&w=828&q=75" width="190" alt="Yash Singh profile photo placeholder" />
 
 <br/>
 
@@ -83,9 +83,12 @@ To Collaborate
 <tr>
 <td width="50%" valign="top">
 
+
+
+
 <!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_CHILDPROGRESS360 -->
 <a href="https://childprogress360.webtechware.in">
-<img src="PROJECT_IMAGE_URL_CHILDPROGRESS360" width="100%" alt="ChildProgress360 project screenshot placeholder" />
+<img src="/assets/projects/cp360.png" width="100%" alt="ChildProgress360 project screenshot placeholder" />
 </a>
 
 ### ChildProgress360
@@ -98,6 +101,47 @@ A school-management and student-progress platform to help schools manage educati
 
 </td>
 <td width="50%" valign="top">
+
+
+
+
+
+<!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_RESTRA -->
+<a href="https://restramenu.com">
+<img src="PROJECT_IMAGE_URL_RESTRA" width="100%" alt="Restra Menu project screenshot placeholder" />
+
+### Restra Menu
+
+A restaurant SaaS platform concept for QR menus, admin tools, and sales reporting.
+
+`Next.js` `Node.js` `MongoDB`
+
+[↗ Live Website](https://childprogress360.webtechware.in)
+</td>
+</tr>
+</table>
+
+
+
+
+<!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_WEBTECHWARE -->
+<a href="https://webtechware.in">
+<img src="PROJECT_IMAGE_URL_WEBTECHWARE" width="100%" alt="WebTechWare project screenshot placeholder" />
+</a>
+
+### WebTechWare
+
+A software-development brand delivering web applications, SaaS solutions, and digital products.
+
+`Next.js` `Node.js` `MongoDB`
+
+[↗ Visit Website](https://webtechware.in)
+
+</td>
+<td width="50%" valign="top">
+
+
+
 
 <!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_AINATION -->
 <a href="https://ainationacademy.com">
@@ -117,36 +161,9 @@ An educational platform focused on coding and generative-AI learning for student
 <tr>
 <td width="50%" valign="top">
 
-<!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_WEBTECHWARE -->
-<a href="https://webtechware.in">
-<img src="PROJECT_IMAGE_URL_WEBTECHWARE" width="100%" alt="WebTechWare project screenshot placeholder" />
-</a>
 
-### WebTechWare
 
-A software-development brand delivering web applications, SaaS solutions, and digital products.
 
-`Next.js` `Node.js` `MongoDB`
-
-[↗ Visit Website](https://webtechware.in)
-
-</td>
-<td width="50%" valign="top">
-
-<!-- PROJECT IMAGE PLACEHOLDER: replace PROJECT_IMAGE_URL_RESTRA -->
-<img src="PROJECT_IMAGE_URL_RESTRA" width="100%" alt="Restra Menu project screenshot placeholder" />
-
-### Restra Menu
-
-A restaurant SaaS platform concept for QR menus, admin tools, and sales reporting.
-
-`Next.js` `Node.js` `MongoDB`
-
-[✉ Ask about this project](mailto:singhyash3012@gmail.com?subject=Restra%20Menu)
-
-</td>
-</tr>
-</table>
 
 <table>
 <tr>
