@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/🟢-Available%20for%20Opportunities-0B1724?style=flat-square&labelColor=0B1724" alt="Available for opportunities" />
+<img src="https://img.shields.io/badge/🟢-Founder%20@WebTechWare-0B1724?style=flat-square&labelColor=0B1724" alt="Founder @WebTechWare" />
 
 </td>
 <td width="74%" valign="middle">
