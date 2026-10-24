@@ -44,33 +44,33 @@ I build modern web applications, scalable SaaS products, and intuitive digital e
 <tr>
 <td width="25%" align="center">
 
-### `</>`  
-**3+**  
-Years Building  
+### `</>`
+**3+**
+Years Building
 <sub>Web experiences</sub>
 
 </td>
 <td width="25%" align="center">
 
-### ◈  
-**2+**  
-Full-Stack  
+### ◈
+**2+**
+Full-Stack
 <sub>Frontend + backend</sub>
 
 </td>
 <td width="25%" align="center">
 
-### 🚀  
-**10+**  
-Projects & Products  
+### 🚀
+**10+**
+Projects & Products
 <sub>Web · SaaS · Apps</sub>
 
 </td>
 <td width="25%" align="center">
 
-### 🤝  
-**Open**  
-To Collaborate  
+### 🤝
+**Open**
+To Collaborate
 <sub>Freelance · Remote</sub>
 
 </td>
@@ -189,16 +189,16 @@ A restaurant SaaS platform concept for QR menus, admin tools, and sales reportin
 
 ## ⚙️ What I Do
 
-**▣ Frontend Development**  
+**▣ Frontend Development**
 Modern, responsive, interactive user interfaces.
 
-**⬡ Full-Stack Development**  
+**⬡ Full-Stack Development**
 Scalable web apps using Node.js and MongoDB.
 
-**◈ SaaS Product Development**  
+**◈ SaaS Product Development**
 End-to-end product development and deployment.
 
-**↗ API Integration**  
+**↗ API Integration**
 Third-party APIs and payment integrations.
 
 </td>
